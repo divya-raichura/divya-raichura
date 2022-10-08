@@ -26,3 +26,5 @@
 ![Divya's github stats](https://github-readme-stats.vercel.app/api?username=divya-raichura&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divya-raichura&layout=compact&theme=dracula)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=divya-raichura.divya-raichura)

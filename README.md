@@ -15,9 +15,6 @@
 <a href="https://twitter.com/divya_raichura">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" />
 </a>
-<a href="https://mailto:divyaraichura8@gmail.com">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
-</a>
 <a href="https://medium.com/@divyaraichura8">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968933.png" />
 </a>
